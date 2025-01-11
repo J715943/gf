@@ -1,0 +1,16 @@
+
+# last update: 011125
+#
+# FILE FORMAT (https://ipregistry.co/blog/geofeeds)
+# IP prefix/subnet: an IPv4 or IPv6 range in Classless Inter-Domain Routing (CIDR) format
+# Country (optional): a 2-letter ISO country code conforming to ISO 3166-1.
+# Region (optional): a region code conforming to ISO 3166-2.
+# City (optional): free UTF-8 text excluding the comma character. Ideally, the English name using title case.
+# Postal code (optional): free UTF-8 text excluding the comma character
+#
+#
+#
+# prefix,country_code,region_code,city,postal
+170.203.152.32/32,US,US-IN,New Carlisle,46552
+
+
