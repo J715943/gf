@@ -1,4 +1,4 @@
-# last update: 011125
+# last update: 020225
 #
 # FILE FORMAT (https://ipregistry.co/blog/geofeeds)
 # IP prefix/subnet: an IPv4 or IPv6 range in Classless Inter-Domain Routing (CIDR) format
@@ -11,5 +11,6 @@
 #
 # prefix,country_code,region_code,city,postal
 170.203.152.32/32,US,US-IN,New Carlisle,46552
+170.203.152.77/77,US,US-IN,New Carlisle,46552
 
 
